@@ -1,3 +1,4 @@
+![logo](https://github.com/anika095/anika095/blob/main/AI.png)
 <h1 align="center">Hi 👋, I'm Nurun Nahar Anika.</h1>
 <h3 align="center">I'm a student of BSc. in CSE at Metropolitan University.</h3>
 
